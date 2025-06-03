@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngalande</h1>
+<center>
+  
 <table>
   <tr>
 
@@ -6,7 +8,9 @@
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rp3nnqcjjqqmp44q2fj5phs6cy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr>
+</center>
+</table>  
 
 <br/> 
 <h3 align="center">A Full Stack Software developer</h3>
