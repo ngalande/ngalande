@@ -4,7 +4,7 @@
 
 <td valign="top" width="50%">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31rp3nnqcjjqqmp44q2fj5phs6cy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="right" style="width: 100%" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" style="width: 100%" />
 
 </td></tr></table>  
 
