@@ -3,6 +3,18 @@
   
 <table>
   <tr>
+  <td valign="top" width="50%">
+
+- 🌱 I’m currently learning Nestjs  
+  
+
+- ❓ Ask me about ML and IoT  
+  
+
+- 📫 How to reach me: [send me an email](mailto:blessngalande@gmail.com?Subject=Your%20GitHub%20Profile%20Interests%20Me)  
+
+
+</td>
 
 <td valign="top" width="50%">
 
