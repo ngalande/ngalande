@@ -31,7 +31,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngalande" alt="ngalande" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://ngalande.vercel.app/](https://ngalande.vercel.app/)
 
